@@ -1,0 +1,20 @@
+---
+enable: true
+title: "Wedding Info"
+subtitle: >
+          We enable people and businesses to work where they want, 
+          when they want and how they want.
+services:
+  - name: "Ceremony"
+    time: 4:00pm
+    location: Lower Pond
+    icon: "ti-book"
+  - name: "Cocktail Hour"
+    time: 5:30pm
+    location: Lower Pond
+    icon: "ti-heart"
+  - name: "Reception"
+    time: 7:00pm
+    location: Main Building
+    icon: "ti-music-alt"
+---

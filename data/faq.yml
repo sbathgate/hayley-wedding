@@ -1,0 +1,21 @@
+---
+enable: true
+title: "Questions"
+faq:
+  - question: "Q. Will there be transport?"
+    answer: >
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi, consectetur?
+  - question: "Q. Can I pet the horses?"
+    answer: >
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi, consectetur?
+  - question: "Q. Which sibling is the best?"
+    answer: >
+            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sit excepturi 
+            eaque quidem recusandae facere obcaecati optio, perferendis iusto maxime eligendi!
+  - question: "Q. Are you a root man or a fruit man?"
+    answer: >
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi, consectetur?
+  - question: "Q. Can you think of any other questions?"
+    answer: >
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi, consectetur?
+---

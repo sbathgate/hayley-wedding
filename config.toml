@@ -41,7 +41,7 @@ title = 'Hayley & Robs Wedding'
   phone = "+(519) 000 0000"
 
   [params.map]
-  APIkey = "AIzaSyC9rV6yesIygoVKTD6QLf_iCa9eiIIHqZ0"
+  APIkey = "AIzaSyD8v65dXeM-oPlmoxxCSG896yHR2dFHkD4"
   latitude = "42.96383168262409"
   longitude = "-80.78505017010458"
   pinImage = "images/pin.png"

@@ -8,7 +8,7 @@ faq:
             In the event of inclement weather, we will move to the covered balcony at the main lodge.
   - question: "Q. Where can I stay?"
     answer: >
-             Options in the immediate vecinity are admittedly limited, however, Woodstock and Tilsonburg would be the nearest towns to look.
+             Options in the immediate vicinity are admittedly limited, however, Woodstock and Tilsonburg would be the nearest towns to look.
   - question: "Q. Where can I park?"
     answer: >
             There is plenty of Parking available behind the main lodge. In the event you can't find a spot at the top of the hill, overflow
@@ -21,4 +21,7 @@ faq:
             No, we are very lucky to have everything we need for our home already.
             The most important thing to us is that you are able to celebrate with us on our wedding day. 
             However, if you wish to give a gift, we will gratefully accept a contribution towards our honeymoon. 
+  - question: "Q. Is the venue wheelchair accessible?"
+    answer: >
+            Of course! There is a gradual slope down to the lower pond for the ceremony and the reception takes place on the ground floor of the main lodge. 
 ---

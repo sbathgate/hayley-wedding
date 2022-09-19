@@ -31,7 +31,7 @@ title = 'Hayley & Robs Wedding'
   googleAnalytics = ""
   logo = "images/logo.png"
   footerlogo = "images/logo.png"
-  footerDescription = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit quia ab, natus fugiat voluptas saepe ipsum animi officiis in molestiae?"
+  footerDescription = ""
 
   [params.address]
   address = "The Oxford Hills<br>324183 Mt Elgin Rd, <br>Mount Elgin, ON N0J 1N0"
@@ -48,20 +48,16 @@ title = 'Hayley & Robs Wedding'
 
   # Socail icons
   [[params.social]]
-  icon = "ti-facebook"
-  url = "https://www.facebook.com/"
+  icon = "ti-email"
+  url = "mailto:hayleybathgate@gmail.com"
   weight = 1
   [[params.social]]
-  icon = "ti-twitter-alt"
-  url = "https://twitter.com/"
+  icon = "ti-facebook"
+  url = "https://www.facebook.com/"
   weight = 2
-  [[params.social]]
-  icon = "ti-dribbble"
-  url = "https://dribbble.com/"
-  weight = 3
   [[params.social]]
   icon = "ti-instagram"
   url = "https://www.instagram.com/"
-  weight = 4
+  weight = 3
   
   

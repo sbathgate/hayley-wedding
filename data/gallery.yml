@@ -1,9 +1,7 @@
 ---
 title : "Gallery"
 enable: true
-subtitle: >
-          Lorem ipsum dolor sit, amet consectetur adipisicing elit. 
-          Sit excepturi eaque quidem recusandae! 
+subtitle: ""
 galleryImage: 
  - image: "images/gallery/hayley.jpg"
  - image: "images/gallery/hayley2.jpg"

@@ -1,9 +1,7 @@
 ---
 enable: true
 title: "Wedding Info"
-subtitle: >
-          Lorem ipsum dolor sit, amet consectetur adipisicing elit. 
-          Sit excepturi eaque quidem recusandae! 
+subtitle: ""
 services:
   - name: "Ceremony"
     time: 5:00pm

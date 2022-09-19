@@ -10,7 +10,7 @@ services:
     location: Lower Pond
     icon: "ti-book"
   - name: "Cocktail Hour"
-    time: 5:30pm
+    time: 6:00pm
     location: Lower Pond
     icon: "ti-heart"
   - name: "Reception"

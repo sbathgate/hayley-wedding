@@ -2,20 +2,23 @@
 enable: true
 title: "Questions"
 faq:
-  - question: "Q. Will there be transport?"
+  - question: "Q. Will the ceremony be taking place indoors or outdoors?"
     answer: >
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi, consectetur?
-  - question: "Q. Can I pet the horses?"
+            Currently, the ceremony will take place outdoors at the Lower pond.
+            In the event of inclement weather, we will move to the covered balcony at the main lodge.
+  - question: "Q. Where can I stay?"
     answer: >
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi, consectetur?
-  - question: "Q. Which sibling is the best?"
+             Options in the immediate vecinity are admittedly limited, however, Woodstock and Tilsonburg would be the nearest towns to look.
+  - question: "Q. Where can I park?"
     answer: >
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sit excepturi 
-            eaque quidem recusandae facere obcaecati optio, perferendis iusto maxime eligendi!
-  - question: "Q. Are you a root man or a fruit man?"
+            There is plenty of Parking available behind the main lodge. In the event you can't find a spot at the top of the hill, overflow
+            is available on the right hand side as you pass the main lodge. 
+  - question: "Q. Are credit and debit cards accepted at the venue, or do I need cash?"
     answer: >
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi, consectetur?
-  - question: "Q. Can you think of any other questions?"
+            You bet! There will be opportunities of open bar service, however, the bar will accept all major credit and debit cards.
+  - question: "Q. Do you have a gift registry?"
     answer: >
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi, consectetur?
+            No, we are very lucky to have everything we need for our home already.
+            The most important thing to us is that you are able to celebrate with us on our wedding day. 
+            However, if you wish to give a gift, we will gratefully accept a contribution towards our honeymoon. 
 ---

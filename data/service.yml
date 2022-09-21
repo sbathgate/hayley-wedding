@@ -1,7 +1,7 @@
 ---
 enable: true
 title: "Wedding Info"
-subtitle: ""
+subtitle: "The ceremony will begin at 5:00pm, guests are encouraged to arrive at 4:30pm"
 services:
   - name: "Ceremony"
     time: 5:00pm
